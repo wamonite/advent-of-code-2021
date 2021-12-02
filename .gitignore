@@ -1,0 +1,6 @@
+*~
+.idea
+.DS_Store
+.envrc
+*.egg-info
+__pycache__
